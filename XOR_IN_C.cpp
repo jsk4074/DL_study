@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int AND(int x1, int x2)
 {
     double w1 = 0.5, w2 = 0.5, thata = 0.7;
